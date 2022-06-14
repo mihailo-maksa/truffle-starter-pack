@@ -1,0 +1,21 @@
+{
+  "name": "truffle-starter-pack",
+  "version": "1.0.0",
+  "description": "Pre-configured Truffle project with sample contract, test & deployment script, ideal for those who want to bootstrap their projects in a quick & efficient way.",
+  "author": "Mihailo Maksa",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@truffle/hdwallet-provider": "^2.0.9",
+    "chai": "^4.3.6",
+    "eth-gas-reporter": "^0.2.25",
+    "solidity-coverage": "^0.7.21",
+    "truffle": "^5.5.18",
+    "truffle-plugin-verify": "^0.5.26",
+    "web3": "^1.7.3"
+  }
+}
